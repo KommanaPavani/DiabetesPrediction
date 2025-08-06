@@ -31,6 +31,8 @@ DiabetesPrediction/
 ├── requirements.txt
 └── README.md
 
+└── README.md
+````
 
 ---
 
@@ -38,18 +40,19 @@ DiabetesPrediction/
 
 The project uses the **Pima Indians Diabetes Database** with features including:
 
-- Pregnancies  
-- Glucose  
-- BloodPressure  
-- SkinThickness  
-- Insulin  
-- BMI  
-- DiabetesPedigreeFunction  
-- Age  
+* Pregnancies
+* Glucose
+* BloodPressure
+* SkinThickness
+* Insulin
+* BMI
+* DiabetesPedigreeFunction
+* Age
 
 **Labels** indicate diabetes onset status.
 
 ---
+
 
 ## 🚧 Installation
 
