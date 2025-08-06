@@ -12,7 +12,8 @@ Developed by **Kommana Pavani** as part of the **Machine Learning 100‑Hour Cou
 
 ## 🚀 Overview
 
-This project implements a predictive model to determine the likelihood of diabetes in individuals based on health parameters. Leveraging the well-known Pima Indians dataset and machine learning techniques, it aims to facilitate early detection and promote health awareness.
+This project implements a predictive model to determine the likelihood of diabetes in individuals based on health parameters.
+Leveraging the well-known Pima Indians dataset and machine learning techniques, it aims to facilitate early detection and promote health awareness.
 
 ---
 
@@ -34,7 +35,6 @@ DiabetesPrediction/
 ├── data/                 # Dataset (e.g. diabetes.csv)
 ├── notebooks/            # Jupyter notebooks for EDA and modeling
 ├── models/               # Saved trained model(s) and scaler(s)
-
 ├── requirements.txt
 └── README.md
 
@@ -153,4 +153,6 @@ Feel free to reach out for feedback or collaboration opportunities!
 ```
 
 ---
+
+Let me know if you'd like a badge, table of contents, or markdown preview image added!
 ```
