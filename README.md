@@ -32,7 +32,9 @@ This project implements a predictive model to determine the likelihood of diabet
 
 DiabetesPrediction/
 ├── data/                 # Dataset (e.g. diabetes.csv)
-├── notebooks/            # Jupyter notebooks for EDA
+├── notebooks/            # Jupyter notebooks for EDA and modeling
+├── models/               # Saved trained model(s) and scaler(s)
+
 ├── requirements.txt
 └── README.md
 
